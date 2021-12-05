@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I’m Rivaldo
+### Ilmu Komputer 2021
 
 <!--
 **Rivaldo2117051054/Rivaldo2117051054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
