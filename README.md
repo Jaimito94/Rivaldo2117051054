@@ -1,4 +1,4 @@
-### hello 👋
+### hello 👋🔭
 ### I’m Rivaldo 
 ### Ilmu Komputer  
 ### Universitas Lampung 
