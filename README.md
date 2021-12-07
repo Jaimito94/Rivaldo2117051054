@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m Rivaldo 
+### I’m Rivaldo
 ### Ilmu Komputer 2021 
 ### Universitas Lampung 
 
