@@ -1,5 +1,5 @@
-### hello 👋🔭 
-### I’m Rivaldo 
+### hello 👋🔭
+### I’m Rivaldo
 ### Ilmu Komputer  
 ### Universitas Lampung 
 
